@@ -1,10 +1,6 @@
 def Remplazando(texto, a_rep, reemplazo):
     return texto.replace(a_rep, reemplazo)
 
-
-
-
-
 print(Remplazando("harry te amo","a","s"))
 print(Remplazando("Hola soy rolon","a","=0"))
 print(Remplazando("comprar pízza","a","p2"))
