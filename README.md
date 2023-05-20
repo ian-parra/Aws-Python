@@ -6,17 +6,17 @@
 
 Este repositorio contiene una serie de laboratorios de Python diseñados específicamente para el bootcamp de AWS. Los laboratorios están diseñados para abarcar una amplia gama de temas y tienen como objetivo ayudar a los participantes a adquirir conocimientos y habilidades prácticas en el uso de Python en el contexto de los servicios de AWS. Además, los laboratorios también incluyen el uso de Linux y el entorno Cloud9 para brindar una experiencia de aprendizaje completa.
 
-Requisitos👩‍💻
+##Requisitos👩‍💻
 Antes de comenzar con los laboratorios, se recomienda cumplir con los siguientes requisitos:
 
-Conocimientos básicos de programación en Python.
-Una cuenta de AWS para poder utilizar los servicios requeridos en los laboratorios. Puedes crear una cuenta gratuita en https://aws.amazon.com/es/free/.
-Acceso a un entorno de desarrollo, como AWS Cloud9, para seguir los laboratorios. Si no tienes acceso a AWS Cloud9, puedes configurar un entorno de desarrollo local en tu máquina utilizando Python 3.x.
-Tener instalado Python 3.x en tu máquina local. Puedes descargar la última versión de Python en https://www.python.org/downloads/.
-Familiaridad con el uso de la línea de comandos de Linux. Los laboratorios pueden incluir comandos de terminal y el uso de herramientas de línea de comandos.
-Conexión a Internet para acceder a los servicios de AWS y descargar cualquier dependencia o biblioteca necesaria.
+-Conocimientos básicos de programación en Python.
+-Una cuenta de AWS para poder utilizar los servicios requeridos en los laboratorios. Puedes crear una cuenta gratuita en https://aws.amazon.com/es/free/.
+-Acceso a un entorno de desarrollo, como AWS Cloud9, para seguir los laboratorios. Si no tienes acceso a AWS Cloud9, puedes configurar un entorno de desarrollo local en tu máquina utilizando Python 3.x.
+-Tener instalado Python 3.x en tu máquina local. Puedes descargar la última versión de Python en https://www.python.org/downloads/.
+-Familiaridad con el uso de la línea de comandos de Linux. Los laboratorios pueden incluir comandos de terminal y el uso de herramientas de línea de comandos.
+-Conexión a Internet para acceder a los servicios de AWS y descargar cualquier dependencia o biblioteca necesaria.
 
-Contacto y Contribuciones📡
+##Contacto y Contribuciones📡
 Si estás interesado en contribuir a este repositorio de laboratorios de Python para el bootcamp de AWS o deseas contactarme, ¡estoy encantado de recibir tu colaboración o responder a tus preguntas!
 
 Puedes contactarme a través de los siguientes medios:
